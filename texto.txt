@@ -2,4 +2,6 @@ Hola me llamo Diego Angel
 
 Tengo 22 años de edad. Mi cumpleaños es el dia 09.
 
+git conrfig : Muestra  configuraciones de git tambien podemos usar --list para mostrar la configuracion por defecto de nuestro git .
+
 Fin del archivo.
