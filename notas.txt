@@ -1,0 +1,3 @@
+DevOps:
+Planificacion, codificacion, construccion, pruebas, lanzamiento, despliegue, operacion y monitoreo.
+
