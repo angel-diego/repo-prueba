@@ -1,4 +1,10 @@
 DevOps:
 Planificacion, codificacion, construccion, pruebas, lanzamiento, despliegue, operacion y monitoreo.
 
+Hola Dave, algun consejo o idea de proyectos para ir haciendo mi portafolio de devops?
+
+RESPUESTA:
+
+Buena pregunta, en github agarra una aplicacion demo y creale un pipeline de cicd usando github actions o puedes crear codigo terraform de una infra para desplegar un sitio de wordpress por ejemplo. Saludos
+
 
